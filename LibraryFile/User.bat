@@ -1,3 +1,3 @@
 pip install robotframework
-SeleniumLibrary
-FakerLibrary
+pip install robotframework-SeleniumLibrary
+pip install robotframework-FakerLibrary
